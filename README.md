@@ -12,6 +12,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | LEXUS_NX_TSS2                | master, user report                            | [View](longitudinal_reports/LEXUS_NX_TSS2_638cbbe25b377cd1_00000025--94f1abbe23.html)          |
 | TESLA_MODEL_3                | master, user report                            | [View](longitudinal_reports/TESLA_MODEL_3_c0fe59cc1ebbd1b3_0000000f--06e674a8d7.html)          |
 | TOYOTA_COROLLA_TSS2 (hybrid) | master, user report                            | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_7c7d3d5e5ff31d51_00000017--84c3f8cedf.html)    |
+| TOYOTA_COROLLA_TSS2 (hybrid) | master, user report                            | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_c16896da5621b481_00000038--ba29565d02.html)    |
 | TOYOTA_CAMRY_TSS2 (hybrid)   | master                                         | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_08e4c2a99df165b1_00000233--1df13bd705.html)      |
 | TOYOTA_CAMRY_TSS2 (hybrid)   | master w/ permit braking                       | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_08e4c2a99df165b1_00000307--d00f531092.html)      |
 | TOYOTA_CAMRY_TSS2 (hybrid)   | various start from stop w/ permit braking      | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_7852e9f76b7e6e8a_0000002f--b994f1c411.html)      |
