@@ -6,6 +6,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 
 | Platform                        | Description                                    | Report                                                                                         |
 |---------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------|
+| FORD_BRONCO_SPORT_MK1           | master                                         | [View](FORD_BRONCO_SPORT_MK1_b9d015f8ff659e1e_0000043a--98baf2b862.html)                       |
 | FORD_F_150_MK14                 | master, user report                            | [View](longitudinal_reports/FORD_F_150_MK14_e36b272d5679115f_000000bb--41f562d6c4.html)        |
 | KIA_EV6                         | master                                         | [View](longitudinal_reports/KIA_EV6_09ed4c7e7b4937fb_00000208--b531b1cb05.html)                |
 | LEXUS_ES_TSS2                   | new tune                                       | [View](longitudinal_reports/LEXUS_ES_TSS2_57048cfce01d9625_00000208--c387e67187.html)          |
