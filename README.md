@@ -23,4 +23,4 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | TOYOTA_COROLLA_TSS2             | master                                         | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_a2bddce0b6747e10_000002a8--842d636732.html)    |
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | master, user report                            | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_00000063--937039a5e9.html) |
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | master, user report                            | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_00000022--b222911f07.html) |
-| TOYOTA_PRIUS_TSS2               | pcm accel compensation, user report            | [View](longitudinal_reports/TOYOTA_PRIUS_TSS2_74b008694de53cc1_00000034--0faa8ed1ab.html)      |
+| TOYOTA_PRIUS_TSS2               | master, pcm accel compensation, user report    | [View](longitudinal_reports/TOYOTA_PRIUS_TSS2_74b008694de53cc1_00000034--0faa8ed1ab.html)      |
