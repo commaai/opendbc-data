@@ -18,6 +18,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | TESLA_MODEL_3                   | master, user report                            | [View](longitudinal_reports/TESLA_MODEL_3_c0fe59cc1ebbd1b3_0000000f--06e674a8d7.html)          |
 | TOYOTA_COROLLA_TSS2 (hybrid)    | master, user report                            | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_7c7d3d5e5ff31d51_00000017--84c3f8cedf.html)    |
 | TOYOTA_COROLLA_TSS2 (hybrid)    | master, user report                            | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_c16896da5621b481_00000038--ba29565d02.html)    |
+| TOYOTA_COROLLA_TSS2 (hybrid)    | rate limited permit braking, user report       | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_c16896da5621b481_00000005--224246799e.html)    |
 | TOYOTA_CAMRY_TSS2 (hybrid)      | master                                         | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_6483a59cd49b6650_00000068--f3684c0b08.html)      |
 | TOYOTA_CAMRY_TSS2 (hybrid)      | master w/ permit braking                       | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_08e4c2a99df165b1_00000307--d00f531092.html)      |
 | TOYOTA_CAMRY_TSS2 (hybrid)      | master w/ rate limited permit braking          | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_6483a59cd49b6650_00000062--f6537659bd.html)      |
