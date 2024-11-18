@@ -29,5 +29,5 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | master, user report                            | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_00000063--937039a5e9.html) |
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | master, user report                            | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_00000022--b222911f07.html) |
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | rate limited permit braking, user report       | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_0000000f--0f720dfa3a.html) |
-| TOYOTA_HIGHLANDER_TSS2 (hybrid) | adaptive ACCEL_NET, user report                | [View](longitudinal_reports//Users/clee/Downloads/openpilot/tools/longitudinal_maneuvers/longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_00000033--58c81f6776.html) |
+| TOYOTA_HIGHLANDER_TSS2 (hybrid) | adaptive ACCEL_NET, user report                | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_00000033--58c81f6776.html) |
 | TOYOTA_PRIUS_TSS2               | pcm accel compensation, user report            | [View](longitudinal_reports/TOYOTA_PRIUS_TSS2_74b008694de53cc1_00000034--0faa8ed1ab.html)      |
