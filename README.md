@@ -10,6 +10,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | FORD_BRONCO_SPORT_MK1           | creep compensation                             | [View](longitudinal_reports/FORD_BRONCO_SPORT_MK1_b9d015f8ff659e1e_00000494--6f8f5b9bd5.html)  |
 | FORD_BRONCO_SPORT_MK1           | creep compensation and brake rate limit        | [View](longitudinal_reports/FORD_BRONCO_SPORT_MK1_b9d015f8ff659e1e_00000505--17d2ede641.html)  |
 | FORD_F_150_MK14                 | master, user report                            | [View](longitudinal_reports/FORD_F_150_MK14_e36b272d5679115f_000000bb--41f562d6c4.html)        |
+| FORD_F_150_MK14                 | sf_model, user report, opendbc@661a42c         | [View](longitudinal_reports/FORD_F_150_MK14_e36b272d5679115f_00000195--ad05d32b7e.html)        |
 | FORD_MAVERICK_MK1               | master, user report                            | [View](longitudinal_reports/FORD_MAVERICK_MK1_6cc716ffa2eb1f32_00000007--2a12e72bc9.html)      |
 | HYUNDAI_SONATA_HEV_2024         | master                                         | [View](longitudinal_reports/HYUNDAI_SONATA_HEV_2024_bc40c72b728178f2_00000006--ee76ae8c42.html)|
 | KIA_EV6                         | master                                         | [View](longitudinal_reports/KIA_EV6_09ed4c7e7b4937fb_00000208--b531b1cb05.html)                |
