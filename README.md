@@ -32,3 +32,10 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | master, user report                            | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_00000022--b222911f07.html) |
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | rate limited permit braking, user report       | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_0000000f--0f720dfa3a.html) |
 | TOYOTA_PRIUS_TSS2               | pcm accel compensation, user report            | [View](longitudinal_reports/TOYOTA_PRIUS_TSS2_74b008694de53cc1_00000034--0faa8ed1ab.html)      |
+
+
+## Lateral maneuver reports
+| Platform                        | Description                                    | Report                                                                                         |
+|---------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------|
+| KIA_EV6                         | high limits                                    | [View](lateral_reports/KIA_EV6_98395b7c5b27882e_00000268--6b3e66b898.html)                     |
+| TESLA_MODEL_Y                   | master                                         | [View](lateral_reports/TESLA_MODEL_Y_0f79c454f812791a_000001bd--15bdf1ba66.html)               |
