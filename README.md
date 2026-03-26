@@ -37,7 +37,9 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 
 
 ## Lateral maneuver reports
+
 | Platform                        | Description                                    | Report                                                                                         |
 |---------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------|
+| KIA_EV6                         | master                                         | [View](lateral_reports/KIA_EV6_98395b7c5b27882e_0000029a--b2f9848b93.html)                     |
 | KIA_EV6                         | high limits                                    | [View](lateral_reports/KIA_EV6_98395b7c5b27882e_00000268--6b3e66b898.html)                     |
 | TESLA_MODEL_Y                   | master                                         | [View](lateral_reports/TESLA_MODEL_Y_0f79c454f812791a_000001bd--15bdf1ba66.html)               |
