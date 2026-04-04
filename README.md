@@ -12,7 +12,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | FORD_F_150_MK14                 | master, user report                            | [View](longitudinal_reports/FORD_F_150_MK14_e36b272d5679115f_000000bb--41f562d6c4.html)        |
 | FORD_F_150_MK14                 | sf_model, user report, opendbc@661a42c         | [View](longitudinal_reports/FORD_F_150_MK14_e36b272d5679115f_00000195--ad05d32b7e.html)        |
 | FORD_MAVERICK_MK1               | master, user report                            | [View](longitudinal_reports/FORD_MAVERICK_MK1_6cc716ffa2eb1f32_00000007--2a12e72bc9.html)      |
-| GWM_HAVAL_H6                    | master                                         | [View](longitudinal_reports/GWM_HAVAL_H6_075b133b6181e058_0000010d--2fd41a43cf.html)           |
+| GWM_HAVAL_H6                    | master                                         | [View](longitudinal_reports/GWM_HAVAL_H6_075b133b6181e058_00000162--df9a818bf7.html)           |
 | HYUNDAI_SONATA_HEV_2024         | master                                         | [View](longitudinal_reports/HYUNDAI_SONATA_HEV_2024_bc40c72b728178f2_00000006--ee76ae8c42.html)|
 | KIA_EV6                         | master                                         | [View](longitudinal_reports/KIA_EV6_09ed4c7e7b4937fb_00000208--b531b1cb05.html)                |
 | LEXUS_ES_TSS2                   | new tune                                       | [View](longitudinal_reports/LEXUS_ES_TSS2_57048cfce01d9625_00000316--44084725e9.html)          |
