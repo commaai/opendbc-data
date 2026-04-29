@@ -34,6 +34,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | rate limited permit braking, user report       | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_0000000f--0f720dfa3a.html) |
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | master, user report (RAISED_ACCEL_LIMIT)       | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_0000004e--ce30f6223e.html) |
 | TOYOTA_PRIUS_TSS2               | pcm accel compensation, user report            | [View](longitudinal_reports/TOYOTA_PRIUS_TSS2_74b008694de53cc1_00000034--0faa8ed1ab.html)      |
+| VOLKSWAGEN_ID4_MK1              | master                                         | [View](longitudinal_reports/VOLKSWAGEN_ID4_MK1_aebd8f1d4ea16066_000000c4--6932a266c7.html)     |
 
 
 ## Lateral maneuver reports
@@ -43,3 +44,4 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | KIA_EV6                         | master                                         | [View](lateral_reports/KIA_EV6_98395b7c5b27882e_0000029a--b2f9848b93.html)                     |
 | KIA_EV6                         | high limits                                    | [View](lateral_reports/KIA_EV6_98395b7c5b27882e_00000268--6b3e66b898.html)                     |
 | TESLA_MODEL_Y                   | master                                         | [View](lateral_reports/TESLA_MODEL_Y_0f79c454f812791a_000001bd--15bdf1ba66.html)               |
+| VOLKSWAGEN_ID4_MK1              | master                                         | [View](lateral_reports/VOLKSWAGEN_ID4_MK1_aebd8f1d4ea16066_00000084--3ff94803c8.html)          |
