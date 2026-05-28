@@ -41,6 +41,8 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 
 | Platform                        | Description                                    | Report                                                                                         |
 |---------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------|
+| FORD_BRONCO_SPORT_MK1           | master                                         | [View](lateral_reports/FORD_BRONCO_SPORT_MK1_5beb9b58bd12b691_0000027d--08f3ec2873.html)       |
+| FORD_BRONCO_SPORT_MK1           | new curvature safety                               | [View](lateral_reports/FORD_BRONCO_SPORT_MK1_5beb9b58bd12b691_00000280--0681ceae98.html)       |
 | KIA_EV6                         | master                                         | [View](lateral_reports/KIA_EV6_98395b7c5b27882e_0000029a--b2f9848b93.html)                     |
 | KIA_EV6                         | high limits                                    | [View](lateral_reports/KIA_EV6_98395b7c5b27882e_00000268--6b3e66b898.html)                     |
 | TESLA_MODEL_Y                   | master                                         | [View](lateral_reports/TESLA_MODEL_Y_0f79c454f812791a_000001bd--15bdf1ba66.html)               |
