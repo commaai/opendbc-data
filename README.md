@@ -36,6 +36,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | master, user report (RAISED_ACCEL_LIMIT)       | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_0000004e--ce30f6223e.html)  |
 | TOYOTA_PRIUS_TSS2               | pcm accel compensation, user report            | [View](longitudinal_reports/TOYOTA_PRIUS_TSS2_74b008694de53cc1_00000034--0faa8ed1ab.html)       |
 | VOLKSWAGEN_ID4_MK1              | master                                         | [View](longitudinal_reports/VOLKSWAGEN_ID4_MK1_aebd8f1d4ea16066_000000c4--6932a266c7.html)      |
+| VOLKSWAGEN_ID4_MK1              | master, higher long jerk                       | [View](longitudinal_reports/VOLKSWAGEN_ID4_MK2_e0e091ddbbef0297_0000002e--9e96400b2b.html)      |
 
 ## Lateral maneuver reports
 
