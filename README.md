@@ -12,7 +12,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | FORD_F_150_MK14                 | master, user report                            | [View](longitudinal_reports/FORD_F_150_MK14_e36b272d5679115f_000000bb--41f562d6c4.html)         |
 | FORD_F_150_MK14                 | sf_model, user report, opendbc@661a42c         | [View](longitudinal_reports/FORD_F_150_MK14_e36b272d5679115f_00000195--ad05d32b7e.html)         |
 | FORD_MAVERICK_MK1               | master, user report                            | [View](longitudinal_reports/FORD_MAVERICK_MK1_6cc716ffa2eb1f32_00000007--2a12e72bc9.html)       |
-| GENESIS_GV80_2025               | master                                         | [View](longitudinal_reports/GENESIS_GV80_2025_098aecbf8ea45630_00000037--fc5fd1803a.html)       |
+| GENESIS_GV80_2025               | dev                                            | [View](longitudinal_reports/GENESIS_GV80_2025_098aecbf8ea45630_00000037--fc5fd1803a.html)       |
 | GWM_HAVAL_H6                    | master                                         | [View](longitudinal_reports/GWM_HAVAL_H6_075b133b6181e058_00000162--df9a818bf7.html)            |
 | HYUNDAI_SONATA_HEV_2024         | master                                         | [View](longitudinal_reports/HYUNDAI_SONATA_HEV_2024_bc40c72b728178f2_00000006--ee76ae8c42.html) |
 | KIA_EV6                         | master                                         | [View](longitudinal_reports/KIA_EV6_09ed4c7e7b4937fb_00000208--b531b1cb05.html)                 |
@@ -46,7 +46,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 |-----------------------|----------------------|------------------------------------------------------------------------------------------|
 | FORD_BRONCO_SPORT_MK1 | master               | [View](lateral_reports/FORD_BRONCO_SPORT_MK1_5beb9b58bd12b691_0000027d--08f3ec2873.html) |
 | FORD_BRONCO_SPORT_MK1 | new curvature safety | [View](lateral_reports/FORD_BRONCO_SPORT_MK1_5beb9b58bd12b691_00000280--0681ceae98.html) |
-| GENESIS_GV80_2025     | master               | [View](lateral_reports/GENESIS_GV80_2025_098aecbf8ea45630_00000028--a3696a9828.html)     |
+| GENESIS_GV80_2025     | dev                  | [View](lateral_reports/GENESIS_GV80_2025_098aecbf8ea45630_00000028--a3696a9828.html)     |
 | KIA_EV6               | master               | [View](lateral_reports/KIA_EV6_98395b7c5b27882e_0000029a--b2f9848b93.html)               |
 | KIA_EV6               | high limits          | [View](lateral_reports/KIA_EV6_98395b7c5b27882e_00000268--6b3e66b898.html)               |
 | TESLA_MODEL_Y         | master               | [View](lateral_reports/TESLA_MODEL_Y_0f79c454f812791a_000001bd--15bdf1ba66.html)         |
